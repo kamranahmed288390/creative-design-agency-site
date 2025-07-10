@@ -7,6 +7,8 @@ A responsive, clean, and modern design agency landing page built with HTML and C
 Coming soon – add your GitHub Pages or live site link here!
 
 ## 📸 Preview
+<img width="1221" alt="image" src="https://github.com/user-attachments/assets/f8c11cf0-73dd-48e7-8b27-595b3c908895" />
+
 
 
 
