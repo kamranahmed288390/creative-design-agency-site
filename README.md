@@ -8,8 +8,7 @@ Coming soon – add your GitHub Pages or live site link here!
 
 ## 📸 Preview
 
-![Preview of site](./assets/images/beautiful.jpg)  
-*(Replace this with a screenshot of your full page if needed)*
+
 
 ## 🚀 Features
 
